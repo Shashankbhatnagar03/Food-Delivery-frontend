@@ -1,3 +1,4 @@
+"use client";
 import { CategoryFilter } from "@/components/menu/category-filter";
 import { MenuGrid } from "@/components/menu/menu-grid";
 
